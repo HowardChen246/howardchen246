@@ -17,7 +17,7 @@
 
 - I'm working as an Undergraduate Computer Science Tutor for Professor Gary Gillespie's CSE 12 (Basic Data Structures) and CSE15L (Software Tools).
 
-- I just joined my friend, [David Dempsey]'s startup [Muse, a social network designed to bring people together through their similar music tastes]. I am working as a Full Stack Software Engineer in the team and we hope to launch the app by this summer!
+- I just joined my friend, [David Dempsey]'s startup [Muse, a social network designed to bring people together through their similar music tastes]. I am working as a Full Stack Software Engineer in the team and we hope to launch the app soon!
 
 - I am still updating my [personal website].
 
