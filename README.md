@@ -5,7 +5,6 @@
 <h2>Hey there, I am Howie👋</h2>
 
 - <i>Currently:</i> Senior Computer Science Student at the University of California, San Diego.
-- <i>Pursuing:</i> Master's degree in Machine Learning at the University of California, San Diego.
 
 ## I'm a Full Stack Software Engineer, ML & AI Enthusiast, and Tutor!!
 
